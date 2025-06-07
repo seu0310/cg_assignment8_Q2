@@ -6,7 +6,6 @@
 *.log
 
 *.exe
-*.obj
 *.o
 *.exp
 *.out
